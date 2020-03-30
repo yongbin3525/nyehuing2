@@ -1,0 +1,10 @@
+{
+  "name": "nyehuing2",
+  "version": "1.0.0",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
