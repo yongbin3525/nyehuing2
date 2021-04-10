@@ -25,6 +25,7 @@
                 name = $('#first').val().charAt(0)+name.substr(1);
             }
             document.getElementById("name").innerHTML += name + ' ';
+            name = '';
             if(stack % 10 == 0){
                 document.getElementById("name").innerHTML += '<br>';
                 stack++;
